@@ -1,6 +1,6 @@
 # Chess Game
 
-A new Flutter project.
+Simple Two player Chess Game in Flutter project.
 
 ## Getting Started
 
