@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-YouTube Tutorial: https://youtu.be/UvsKEmqtjHY
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
